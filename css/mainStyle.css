@@ -24,6 +24,11 @@ body {
     margin-right: auto;
 }
 
+.imgProfile {
+    border-radius: 50%;
+    width:100px
+}
+
 img {
     width: 100%;
     object-fit: cover;
@@ -91,6 +96,7 @@ x-sign:nth-of-type(3) {
     --color3: red;
     --color4: magenta;
     font-family: 'Bad Script';
+    font-size: 250%;
 }
 
 
