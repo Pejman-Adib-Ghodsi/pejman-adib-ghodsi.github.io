@@ -3,8 +3,9 @@ body {
 }
 
 .content {
-    max-width: 500px;
+    max-width: 15%;
     margin: auto;
+    text-align: center;
 }
 
 .whiteText {
@@ -26,7 +27,6 @@ body {
 
 .imgProfile {
     border-radius: 50%;
-    width:100px
 }
 
 img {
