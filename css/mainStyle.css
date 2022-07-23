@@ -20,6 +20,12 @@ body {
 
 .imgProfile {
     border-radius: 50%;
+    width: 60%;
+}
+
+
+.githubIcon {
+    width: 30%;
 }
 
 img {
