@@ -85,7 +85,7 @@ x-sign:nth-of-type(2) {
     --color2: orange;
     --color3: brown;
     --color4: purple;
-    font-family: Bad Script;
+    font-family: 'Bad Script';
 }
 
 x-sign:nth-of-type(3) {
